@@ -1,6 +1,12 @@
 /* styles go here */
+
 .input {
+  display: block;
   margin-bottom: 10px;
+}
+
+.input:last-child {
+  margin-bottom: 0;
 }
 
 .fieldset {
